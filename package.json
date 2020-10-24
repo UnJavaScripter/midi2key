@@ -1,0 +1,17 @@
+{
+  "name": "ts-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "author": "unJavaScripter",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.0.13",
+    "midi": "^1.0.0",
+    "robotjs": "^0.6.0"
+  }
+}
